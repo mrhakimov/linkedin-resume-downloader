@@ -26,3 +26,7 @@ and launch:
 ```commandline
 python3 bot.py
 ```
+
+## how it will look like
+![telegram-cloud-photo-size-2-5192747346881012931-y](https://github.com/user-attachments/assets/6835c3b0-6719-413f-ba71-7d5ff609a15e)
+
