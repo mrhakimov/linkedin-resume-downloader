@@ -1,5 +1,5 @@
 ## disclaimer
-99% of this code is written by LLMs.
+[99% of this code is written by LLMs.](https://www.perplexity.ai/search/write-the-code-in-python-that-OnVP7RXTRQuTA8yJJ0UkKQ)
 
 ## how to launch
 
