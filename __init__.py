@@ -1,0 +1,1 @@
+from properties import LINKEDIN_USERNAME, LINKEDIN_PASSWORD
