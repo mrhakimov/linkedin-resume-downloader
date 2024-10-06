@@ -3,6 +3,13 @@
 
 ## how to launch
 
+create `properties.py` file and put there your LinkedIn login and password, and Telegram bot's token like this:
+```properties
+LINKEDIN_USERNAME = "johndoe@mailprovider.whatever"
+LINKEDIN_PASSWORD = "yoursecurepasswordlike12345678"
+TELEGRAM_MAIN_BOT_TOKEN = "<TOKEN>"
+```
+
 ```commandline
 pip install selenium webdriver-manager
 pip install python-telegram-bot
